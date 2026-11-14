@@ -246,6 +246,8 @@ plt.show()
 
 <img width="311" height="412" alt="image" src="https://github.com/user-attachments/assets/bb2f1ad1-4070-4069-a4e4-d452eabb8a78" />
 
+#### 5.Read 'Apollo-11-launch.jpg' and Display the final annotated image:
+<img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/cf5bfa2d-7ef1-4c3f-8734-bed0b1aed552" />
 
 
 
